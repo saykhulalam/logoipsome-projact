@@ -1,0 +1,1315 @@
+@media (min-width:320px) and (max-width:575px) {
+    /* =======nav start======= */
+    #navigation button {
+        width: 50px;
+        height: 44px;
+        font-size: 19px;
+    }
+    #navigation .under {
+        width: 77px !important;
+        height: 35px !important;
+        font-size: 15px !important;
+        margin-left: 42px !important;
+    }
+    #navigation .navlink {
+        font-size: 15px;
+    }
+    #navigation .under{
+        width: 1px;
+        height: 1px;
+        font-size: 1px;
+        margin-left: 20px;
+    }
+    #navigation .navlogo {
+        width: 164px;
+    }
+    #navigation {
+        padding: 11px 0;
+    }
+    #navigation{
+            margin-top: -19px;
+    }
+     /* =======nav end======= */
+     /* =========hero start======== */
+    .texr-areya{
+        margin-top: 31px;
+    }
+    #hero span {
+        font-size: 47px;
+    }
+    #hero h1 {
+        font-size: 47px;
+    }
+    #hero p {
+        font-size: 20px;
+    }
+    #hero h4 {
+        margin-bottom: 8px;
+    }
+    #hero h1 {
+        margin-bottom: 12px;
+    }
+    #hero p {
+        margin-bottom: 27px;
+    }
+    #hero a {
+        width: 115px;
+        height: 52px;
+        font-size: 15px;
+        padding: 13px;
+    }
+    #hero img{
+        width: 100%;
+    }
+    #hero img {
+        margin-top: 60px;
+    }
+    #hero {
+        padding-bottom: 31px;
+    }
+    /* =========hero start======== */
+    /* ======skill section start======== */
+    #my-ex .taitel h1 {
+        font-size: 34px;
+    }
+    #my-ex .taitel {
+        margin-bottom: 46px;
+    }
+    #my-ex .cmg {
+        width: 63px;
+        height: 64px;
+     margin-bottom: 16px;
+    }
+    #my-ex h5 {
+        font-size: 27px;
+        margin-bottom: 12px;
+    }
+    #my-ex p {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+    .col-12 {
+        margin-bottom: 10px;
+    }
+    #my-ex {
+        margin: 62px 0;
+    }
+    /* ======skill section end======== */
+    /* ========about section start========== */
+    #about img {
+        width: 100%;
+        padding-top: 33px;
+    }
+    #about {
+        margin: -101px 0;
+    }
+    #about .text-areya h1 {
+        font-size: 40px;
+        margin-bottom: -4px;
+      line-height: 75px;
+            
+    }
+    #about .text-areya p {
+        font-size: 13px;
+    }
+    /* ========about section end========== */
+    /* ==========Portfolio-section start========== */
+    #Portfolio {
+        margin-top: 140px;
+    }
+    #Portfolio .hading {
+        font-size: 44px;
+        margin-bottom: 42px;
+    }
+    #Portfolio .side-button {
+        width: 176px;
+        height: 61px;
+        font-size: 15px;
+    }
+    #Portfolio .text{
+        margin-bottom: 42px;
+    }
+    #Portfolio {
+        margin-bottom: 86px;
+    }
+    /* ==========Portfolio-section end========== */
+    /* ==============testmonial section start============ */
+    #testimonials .taitel h1 {
+        font-size: 48px;
+    }
+    .main-card .star i {
+        font-size: 13px;
+    }
+    .main-card p {
+        width: 238px;
+        height: 134px;
+        font-size: 16px;
+    }
+    #testimonials .last img {
+        width: 55px;
+    }
+    #testimonials .last h4 {
+        font-size: 20px;
+    }
+    #testimonials .last h6 {
+        font-size: 17px;
+    }
+    #testimonials .taitel {
+        padding-top: 81px;
+    }
+    #testimonials .taitel {
+        margin-bottom: 62px;
+    }
+    #testimonials {
+        padding-bottom: 91px;
+    }
+    /* ==============testmonial section end============ */
+    /* ==============contact section start============== */
+    .row select .ohm{
+        font-size: 7px;
+    }
+    #contact .taitel h5 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+    #contact .taitel h1 {
+        font-size: 45px;
+        margin-bottom: 14px;
+    }
+    #contact .taitel p {
+        font-size: 16px;
+        margin-bottom: 38px;
+    }
+    #contact .name label {
+        font-size: 14px;
+    }
+    #contact .email label {
+        font-size: 14px;
+    }
+    #contact .select label {
+        font-size: 14px;
+    }
+    #contact select {
+        font-size: 14px;
+    }
+    #contact .msg label {
+        font-size: 14px;
+    }
+    #contact .msg textarea::placeholder{
+        font-size: 14px;
+    }
+    #contact .markx h6 {
+        font-size: 14px;
+    }
+    #contact .btn-last {
+        width: 125px;
+        height: 59px;
+        font-size: 18px;
+        margin-left: 83px;
+    }
+    #contact {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    /* ==============contact section end============== */
+    /* ================footer section start============== */
+    #footer ul {
+        gap: 14px;
+        width: 100%;
+       padding: 0px;
+    }
+    #footer .nav-list ul li a {
+        font-size: 11px;
+    }
+    #main-footer .nav-list{
+        width: 100;
+    }
+    #footer .logo-img img {
+            width: 154px;
+            height: 37px;
+    }
+    .col-12 {
+        margin-bottom: 21px;
+    }
+    #footer .icon i {
+        font-size: 16px;
+    }
+    #footer .x-bon{
+        margin-top: -12px;
+    }
+    #footer {
+        height: 211px;
+    }
+    .h4, h4 {
+        font-size: 8px;
+    }
+    #footer-tow .nav-end a {
+        font-size: 9px;
+    }
+    #footer-tow .nav-end{
+        padding-left: 0px;
+    }
+    #footer-tow .vc-x{
+        display: flex;
+       justify-content: center !important;
+    }
+    .main-footer {
+        margin-bottom: 41px;
+    }
+    #footer-tow {
+        padding-bottom: 37px;
+    }
+    /* ================footer section end============== */
+}
+@media (min-width:576px) and (max-width:767px) {
+    /* =======nav start======= */
+    #navigation button {
+        width: 50px;
+        height: 44px;
+        font-size: 19px;
+    }
+    #navigation .under {
+        width: 77px !important;
+        height: 35px !important;
+        font-size: 15px !important;
+        margin-left: 42px !important;
+    }
+    #navigation .navlink {
+        font-size: 15px;
+    }
+    #navigation .under{
+        width: 1px;
+        height: 1px;
+        font-size: 1px;
+        margin-left: 20px;
+    }
+    #navigation .navlogo {
+        width: 164px;
+    }
+    #navigation {
+        padding: 11px 0;
+    }
+    #navigation{
+            margin-top: -19px;
+    }
+     /* =======nav end======= */
+     /* =========hero start======== */
+    .texr-areya{
+        margin-top: 31px;
+    }
+    #hero span {
+        font-size: 47px;
+    }
+    #hero h1 {
+        font-size: 47px;
+    }
+    #hero p {
+        font-size: 20px;
+    }
+    #hero h4 {
+        margin-bottom: 8px;
+    }
+    #hero h1 {
+        margin-bottom: 12px;
+    }
+    #hero p {
+        margin-bottom: 27px;
+    }
+    #hero a {
+        width: 115px;
+        height: 52px;
+        font-size: 15px;
+        padding: 13px;
+    }
+    #hero img{
+        width: 100%;
+    }
+    #hero img {
+        margin-top: 60px;
+    }
+    #hero {
+        padding-bottom: 31px;
+    }
+    /* =========hero start======== */
+    /* ======skill section start======== */
+    #my-ex .taitel h1 {
+        font-size: 34px;
+    }
+    #my-ex .taitel {
+        margin-bottom: 46px;
+    }
+    #my-ex .cmg {
+        width: 63px;
+        height: 64px;
+     margin-bottom: 16px;
+    }
+    #my-ex h5 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    #my-ex p {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+    .col-12 {
+        margin-bottom: 10px;
+    }
+    #my-ex {
+        margin: 62px 0;
+    }
+    /* ======skill section end======== */
+    /* ========about section start========== */
+    #about img {
+        width: 100%;
+        padding-top: 33px;
+    }
+    #about {
+        margin: -101px 0;
+    }
+    #about .text-areya h1 {
+        font-size: 40px;
+        margin-bottom: -4px;
+      line-height: 75px;
+            
+    }
+    #about .text-areya p {
+        font-size: 13px;
+    }
+    /* ========about section end========== */
+    /* ==========Portfolio-section start========== */
+    #Portfolio {
+        margin-top: 140px;
+    }
+    #Portfolio .hading {
+        font-size: 44px;
+        margin-bottom: 42px;
+    }
+    #Portfolio .side-button {
+        width: 176px;
+        height: 61px;
+        font-size: 15px;
+    }
+    #Portfolio .text{
+        margin-bottom: 42px;
+    }
+    #Portfolio {
+        margin-bottom: 86px;
+    }
+    /* ==========Portfolio-section end========== */
+    /* ==============testmonial section start============ */
+    #testimonials .taitel h1 {
+        font-size: 48px;
+    }
+    .main-card .star i {
+        font-size: 13px;
+    }
+    .main-card p {
+        width: 238px;
+        height: 134px;
+        font-size: 16px;
+    }
+    #testimonials .last img {
+        width: 55px;
+    }
+    #testimonials .last h4 {
+        font-size: 20px;
+    }
+    #testimonials .last h6 {
+        font-size: 17px;
+    }
+    #testimonials .taitel {
+        padding-top: 81px;
+    }
+    #testimonials .taitel {
+        margin-bottom: 62px;
+    }
+    #testimonials {
+        padding-bottom: 91px;
+    }
+    /* ==============testmonial section end============ */
+    /* ==============contact section start============== */
+    .row select .ohm{
+        font-size: 7px;
+    }
+    #contact .taitel h5 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+    #contact .taitel h1 {
+        font-size: 45px;
+        margin-bottom: 14px;
+    }
+    #contact .taitel p {
+        font-size: 16px;
+        margin-bottom: 38px;
+    }
+    #contact .name label {
+        font-size: 14px;
+    }
+    #contact .email label {
+        font-size: 14px;
+    }
+    #contact .select label {
+        font-size: 14px;
+    }
+    #contact select {
+        font-size: 14px;
+    }
+    #contact .msg label {
+        font-size: 14px;
+    }
+    #contact .msg textarea::placeholder{
+        font-size: 14px;
+    }
+    #contact .markx h6 {
+        font-size: 14px;
+    }
+    #contact .btn-last {
+        width: 125px;
+        height: 59px;
+        font-size: 18px;
+        margin-left: 83px;
+    }
+    #contact {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    /* ==============contact section end============== */
+    /* ================footer section start============== */
+    #footer ul {
+        gap: 14px;
+        width: 100%;
+       padding: 0px;
+    }
+    #footer .nav-list ul li a {
+        font-size: 11px;
+    }
+    #main-footer .nav-list{
+        width: 100;
+    }
+    #footer .logo-img img {
+            width: 154px;
+            height: 37px;
+    }
+    .col-12 {
+        margin-bottom: 21px;
+    }
+    #footer .icon i {
+        font-size: 16px;
+    }
+    #footer .x-bon{
+        margin-top: -12px;
+    }
+    #footer {
+        height: 211px;
+    }
+    .h4, h4 {
+        font-size: 8px;
+    }
+    #footer-tow .nav-end a {
+        font-size: 9px;
+    }
+    #footer-tow .nav-end{
+        padding-left: 0px;
+    }
+    #footer-tow .vc-x{
+        display: flex;
+       justify-content: center !important;
+    }
+    .main-footer {
+        margin-bottom: 41px;
+    }
+    #footer-tow {
+        padding-bottom: 37px;
+    }
+    /* ================footer section end============== */
+}
+@media (min-width:768px) and (max-width:991px) {
+    /* =======nav start======= */
+    #navigation button {
+        width: 50px;
+        height: 44px;
+        font-size: 19px;
+    }
+    #navigation .under {
+        width: 77px !important;
+        height: 35px !important;
+        font-size: 15px !important;
+        margin-left: 42px !important;
+    }
+    #navigation .navlink {
+        font-size: 15px;
+    }
+    #navigation .under{
+        width: 1px;
+        height: 1px;
+        font-size: 1px;
+        margin-left: 20px;
+    }
+    #navigation .navlogo {
+        width: 164px;
+    }
+    #navigation {
+        padding: 11px 0;
+    }
+    #navigation{
+            margin-top: -19px;
+    }
+     /* =======nav end======= */
+     /* =========hero start======== */
+    .texr-areya{
+        margin-top: 31px;
+    }
+    #hero span {
+        font-size: 47px;
+    }
+    #hero h1 {
+        font-size: 47px;
+    }
+    #hero p {
+        font-size: 20px;
+    }
+    #hero h4 {
+        margin-bottom: 8px;
+    }
+    #hero h1 {
+        margin-bottom: 12px;
+    }
+    #hero p {
+        margin-bottom: 27px;
+    }
+    #hero a {
+        width: 115px;
+        height: 52px;
+        font-size: 15px;
+        padding: 13px;
+    }
+    #hero img{
+        width: 100%;
+    }
+    #hero img {
+        margin-top: 60px;
+    }
+    #hero {
+        padding-bottom: 31px;
+    }
+    /* =========hero start======== */
+    /* ======skill section start======== */
+    #my-ex .taitel h1 {
+        font-size: 34px;
+    }
+    #my-ex .taitel {
+        margin-bottom: 46px;
+    }
+    #my-ex .cmg {
+        width: 63px;
+        height: 64px;
+     margin-bottom: 16px;
+    }
+    #my-ex h5 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    #my-ex p {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+    .col-12 {
+        margin-bottom: 10px;
+    }
+    #my-ex {
+        margin: 62px 0;
+    }
+    /* ======skill section end======== */
+    /* ========about section start========== */
+    #about img {
+        width: 100%;
+        padding-top: 33px;
+    }
+    #about {
+        margin: -101px 0;
+    }
+    #about .text-areya h1 {
+        font-size: 40px;
+        margin-bottom: -4px;
+      line-height: 75px;
+            
+    }
+    #about .text-areya p {
+        font-size: 13px;
+    }
+    /* ========about section end========== */
+    /* ==========Portfolio-section start========== */
+    #Portfolio {
+        margin-top: 140px;
+    }
+    #Portfolio .hading {
+        font-size: 44px;
+        margin-bottom: 42px;
+    }
+    #Portfolio .side-button {
+        width: 176px;
+        height: 61px;
+        font-size: 15px;
+    }
+    #Portfolio .text{
+        margin-bottom: 42px;
+    }
+    #Portfolio {
+        margin-bottom: 86px;
+    }
+    /* ==========Portfolio-section end========== */
+    /* ==============testmonial section start============ */
+    #testimonials .taitel h1 {
+        font-size: 48px;
+    }
+    .main-card .star i {
+        font-size: 13px;
+    }
+    .main-card p {
+        width: 238px;
+        height: 134px;
+        font-size: 16px;
+    }
+    #testimonials .last img {
+        width: 55px;
+    }
+    #testimonials .last h4 {
+        font-size: 20px;
+    }
+    #testimonials .last h6 {
+        font-size: 17px;
+    }
+    #testimonials .taitel {
+        padding-top: 81px;
+    }
+    #testimonials .taitel {
+        margin-bottom: 62px;
+    }
+    #testimonials {
+        padding-bottom: 91px;
+    }
+    /* ==============testmonial section end============ */
+    /* ==============contact section start============== */
+    .row select .ohm{
+        font-size: 7px;
+    }
+    #contact .taitel h5 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+    #contact .taitel h1 {
+        font-size: 45px;
+        margin-bottom: 14px;
+    }
+    #contact .taitel p {
+        font-size: 16px;
+        margin-bottom: 38px;
+    }
+    #contact .name label {
+        font-size: 14px;
+    }
+    #contact .email label {
+        font-size: 14px;
+    }
+    #contact .select label {
+        font-size: 14px;
+    }
+    #contact select {
+        font-size: 14px;
+    }
+    #contact .msg label {
+        font-size: 14px;
+    }
+    #contact .msg textarea::placeholder{
+        font-size: 14px;
+    }
+    #contact .markx h6 {
+        font-size: 14px;
+    }
+    #contact .btn-last {
+        width: 125px;
+        height: 59px;
+        font-size: 18px;
+        margin-left: 83px;
+    }
+    #contact {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    /* ==============contact section end============== */
+    /* ================footer section start============== */
+    #footer ul {
+        gap: 14px;
+        width: 100%;
+       padding: 0px;
+    }
+    #footer .nav-list ul li a {
+        font-size: 11px;
+    }
+    #main-footer .nav-list{
+        width: 100;
+    }
+    #footer .logo-img img {
+            width: 154px;
+            height: 37px;
+    }
+    .col-12 {
+        margin-bottom: 21px;
+    }
+    #footer .icon i {
+        font-size: 16px;
+    }
+    #footer .x-bon{
+        margin-top: -12px;
+    }
+    #footer {
+        height: 211px;
+    }
+    .h4, h4 {
+        font-size: 8px;
+    }
+    #footer-tow .nav-end a {
+        font-size: 9px;
+    }
+    #footer-tow .nav-end{
+        padding-left: 0px;
+    }
+    #footer-tow .vc-x{
+        display: flex;
+       justify-content: center !important;
+    }
+    .main-footer {
+        margin-bottom: 41px;
+    }
+    #footer-tow {
+        padding-bottom: 37px;
+    }
+    /* ================footer section end============== */
+}
+@media (min-width:992px) and (max-width:1199px) {
+    /* =======nav start======= */
+    #navigation button {
+        width: 50px;
+        height: 44px;
+        font-size: 19px;
+    }
+    #navigation .under {
+        width: 77px !important;
+        height: 35px !important;
+        font-size: 15px !important;
+        margin-left: 42px !important;
+    }
+    #navigation .navlink {
+        font-size: 15px;
+    }
+    #navigation .under{
+        width: 1px;
+        height: 1px;
+        font-size: 1px;
+        margin-left: 20px;
+    }
+    #navigation .navlogo {
+        width: 164px;
+    }
+    #navigation {
+        padding: 11px 0;
+    }
+    #navigation{
+            margin-top: -19px;
+    }
+     /* =======nav end======= */
+     /* =========hero start======== */
+    .texr-areya{
+        margin-top: 31px;
+    }
+    #hero span {
+        font-size: 47px;
+    }
+    #hero h1 {
+        font-size: 47px;
+    }
+    #hero p {
+        font-size: 20px;
+    }
+    #hero h4 {
+        margin-bottom: 8px;
+    }
+    #hero h1 {
+        margin-bottom: 12px;
+    }
+    #hero p {
+        margin-bottom: 27px;
+    }
+    #hero a {
+        width: 115px;
+        height: 52px;
+        font-size: 15px;
+        padding: 13px;
+    }
+    #hero img{
+        width: 100%;
+    }
+    #hero img {
+        margin-top: 60px;
+    }
+    #hero {
+        padding-bottom: 31px;
+    }
+    /* =========hero start======== */
+    /* ======skill section start======== */
+    #my-ex .taitel h1 {
+        font-size: 34px;
+    }
+    #my-ex .taitel {
+        margin-bottom: 46px;
+    }
+    #my-ex .cmg {
+        width: 63px;
+        height: 64px;
+     margin-bottom: 16px;
+    }
+    #my-ex h5 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    #my-ex p {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+    .col-12 {
+        margin-bottom: 10px;
+    }
+    #my-ex {
+        margin: 62px 0;
+    }
+    /* ======skill section end======== */
+    /* ========about section start========== */
+    #about img {
+        width: 100%;
+        padding-top: 33px;
+    }
+    #about {
+        margin: -101px 0;
+    }
+    #about .text-areya h1 {
+        font-size: 40px;
+        margin-bottom: -4px;
+      line-height: 75px;
+            
+    }
+    #about .text-areya p {
+        font-size: 13px;
+    }
+    /* ========about section end========== */
+    /* ==========Portfolio-section start========== */
+    #Portfolio {
+        margin-top: 140px;
+    }
+    #Portfolio .hading {
+        font-size: 44px;
+        margin-bottom: 42px;
+    }
+    #Portfolio .side-button {
+        width: 176px;
+        height: 61px;
+        font-size: 15px;
+    }
+    #Portfolio .text{
+        margin-bottom: 42px;
+    }
+    #Portfolio {
+        margin-bottom: 86px;
+    }
+    /* ==========Portfolio-section end========== */
+    /* ==============testmonial section start============ */
+    #testimonials .taitel h1 {
+        font-size: 48px;
+    }
+    .main-card .star i {
+        font-size: 13px;
+    }
+    .main-card p {
+        width: 238px;
+        height: 134px;
+        font-size: 16px;
+    }
+    #testimonials .last img {
+        width: 55px;
+    }
+    #testimonials .last h4 {
+        font-size: 19px;
+    }
+    #testimonials .last h6 {
+        font-size: 17px;
+    }
+    #testimonials .taitel {
+        padding-top: 81px;
+    }
+    #testimonials .taitel {
+        margin-bottom: 62px;
+    }
+    #testimonials {
+        padding-bottom: 91px;
+    }
+    /* ==============testmonial section end============ */
+    /* ==============contact section start============== */
+    .row select .ohm{
+        font-size: 7px;
+    }
+    #contact .taitel h5 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+    #contact .taitel h1 {
+        font-size: 45px;
+        margin-bottom: 14px;
+    }
+    #contact .taitel p {
+        font-size: 16px;
+        margin-bottom: 38px;
+    }
+    #contact .name label {
+        font-size: 14px;
+    }
+    #contact .email label {
+        font-size: 14px;
+    }
+    #contact .select label {
+        font-size: 14px;
+    }
+    #contact select {
+        font-size: 14px;
+    }
+    #contact .msg label {
+        font-size: 14px;
+    }
+    #contact .msg textarea::placeholder{
+        font-size: 14px;
+    }
+    #contact .markx h6 {
+        font-size: 14px;
+    }
+    #contact .btn-last {
+        width: 125px;
+        height: 59px;
+        font-size: 18px;
+        margin-left: 83px;
+    }
+    #contact {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    /* ==============contact section end============== */
+    /* ================footer section start============== */
+    #footer ul {
+        gap: 14px;
+        width: 100%;
+       padding: 0px;
+    }
+    #footer .nav-list ul li a {
+        font-size: 11px;
+    }
+    #main-footer .nav-list{
+        width: 100;
+    }
+    #footer .logo-img img {
+            width: 154px;
+            height: 37px;
+    }
+    .col-12 {
+        margin-bottom: 21px;
+    }
+    #footer .icon i {
+        font-size: 16px;
+    }
+    #footer .x-bon{
+        margin-top: -12px;
+    }
+    #footer {
+        height: 211px;
+    }
+    .h4, h4 {
+        font-size: 8px;
+    }
+    #footer-tow .nav-end a {
+        font-size: 9px;
+    }
+    #footer-tow .nav-end{
+        padding-left: 0px;
+    }
+    #footer-tow .vc-x{
+        display: flex;
+       justify-content: center !important;
+    }
+    .main-footer {
+        margin-bottom: 41px;
+    }
+    #footer-tow {
+        padding-bottom: 37px;
+    }
+    /* ================footer section end============== */
+}
+@media (min-width:1200px) and (max-width:1400px) {
+    /* =======nav start======= */
+    #navigation button {
+        width: 50px;
+        height: 44px;
+        font-size: 19px;
+    }
+    #navigation .under {
+        width: 77px !important;
+        height: 35px !important;
+        font-size: 15px !important;
+        margin-left: 42px !important;
+    }
+    #navigation .navlink {
+        font-size: 15px;
+    }
+    #navigation .under{
+        width: 1px;
+        height: 1px;
+        font-size: 1px;
+        margin-left: 20px;
+    }
+    #navigation .navlogo {
+        width: 164px;
+    }
+    #navigation {
+        padding: 11px 0;
+    }
+    #navigation{
+            margin-top: -19px;
+    }
+     /* =======nav end======= */
+     /* =========hero start======== */
+    .texr-areya{
+        margin-top: 31px;
+    }
+    #hero span {
+        font-size: 47px;
+    }
+    #hero h1 {
+        font-size: 47px;
+    }
+    #hero p {
+        font-size: 20px;
+    }
+    #hero h4 {
+        margin-bottom: 8px;
+    }
+    #hero h1 {
+        margin-bottom: 12px;
+    }
+    #hero p {
+        margin-bottom: 27px;
+    }
+    #hero a {
+        width: 115px;
+        height: 52px;
+        font-size: 15px;
+        padding: 13px;
+    }
+    #hero img{
+        width: 100%;
+    }
+    #hero img {
+        margin-top: 60px;
+    }
+    #hero {
+        padding-bottom: 31px;
+    }
+    /* =========hero start======== */
+    /* ======skill section start======== */
+    #my-ex .taitel h1 {
+        font-size: 34px;
+    }
+    #my-ex .taitel {
+        margin-bottom: 46px;
+    }
+    #my-ex .cmg {
+        width: 63px;
+        height: 64px;
+     margin-bottom: 16px;
+    }
+    #my-ex h5 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    #my-ex p {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+    .col-12 {
+        margin-bottom: 10px;
+    }
+    #my-ex {
+        margin: 62px 0;
+    }
+    /* ======skill section end======== */
+    /* ========about section start========== */
+    #about img {
+        width: 100%;
+        padding-top: 33px;
+    }
+    #about {
+        margin: -101px 0;
+    }
+    #about .text-areya h1 {
+        font-size: 40px;
+        margin-bottom: -4px;
+      line-height: 75px;
+            
+    }
+    #about .text-areya p {
+        font-size: 13px;
+    }
+    /* ========about section end========== */
+    /* ==========Portfolio-section start========== */
+    #Portfolio {
+        margin-top: 140px;
+    }
+    #Portfolio .hading {
+        font-size: 44px;
+        margin-bottom: 42px;
+    }
+    #Portfolio .side-button {
+        width: 176px;
+        height: 61px;
+        font-size: 15px;
+    }
+    #Portfolio .text{
+        margin-bottom: 42px;
+    }
+    #Portfolio {
+        margin-bottom: 86px;
+    }
+    /* ==========Portfolio-section end========== */
+    /* ==============testmonial section start============ */
+    #testimonials .taitel h1 {
+        font-size: 48px;
+    }
+    .main-card .star i {
+        font-size: 13px;
+    }
+    .main-card p {
+        width: 238px;
+        height: 134px;
+        font-size: 16px;
+    }
+    #testimonials .last img {
+        width: 55px;
+    }
+    #testimonials .last h4 {
+        font-size: 19px;
+    }
+    #testimonials .last h6 {
+        font-size: 17px;
+    }
+    #testimonials .taitel {
+        padding-top: 81px;
+    }
+    #testimonials .taitel {
+        margin-bottom: 62px;
+    }
+    #testimonials {
+        padding-bottom: 91px;
+    }
+    /* ==============testmonial section end============ */
+    /* ==============contact section start============== */
+    .row select .ohm{
+        font-size: 7px;
+    }
+    #contact .taitel h5 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+    #contact .taitel h1 {
+        font-size: 45px;
+        margin-bottom: 14px;
+    }
+    #contact .taitel p {
+        font-size: 16px;
+        margin-bottom: 38px;
+    }
+    #contact .name label {
+        font-size: 14px;
+    }
+    #contact .email label {
+        font-size: 14px;
+    }
+    #contact .select label {
+        font-size: 14px;
+    }
+    #contact select {
+        font-size: 14px;
+    }
+    #contact .msg label {
+        font-size: 14px;
+    }
+    #contact .msg textarea::placeholder{
+        font-size: 14px;
+    }
+    #contact .markx h6 {
+        font-size: 14px;
+    }
+    #contact .btn-last {
+        width: 125px;
+        height: 59px;
+        font-size: 18px;
+        margin-left: 83px;
+    }
+    #contact {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    /* ==============contact section end============== */
+    /* ================footer section start============== */
+    #footer ul {
+        gap: 14px;
+        width: 100%;
+       padding: 0px;
+    }
+    #footer .nav-list ul li a {
+        font-size: 11px;
+    }
+    #main-footer .nav-list{
+        width: 100;
+    }
+    #footer .logo-img img {
+            width: 154px;
+            height: 37px;
+    }
+    .col-12 {
+        margin-bottom: 21px;
+    }
+    #footer .icon i {
+        font-size: 16px;
+    }
+    #footer .x-bon{
+        margin-top: -12px;
+    }
+    #footer {
+        height: 211px;
+    }
+    .h4, h4 {
+        font-size: 8px;
+    }
+    #footer-tow .nav-end a {
+        font-size: 9px;
+    }
+    #footer-tow .nav-end{
+        padding-left: 0px;
+    }
+    #footer-tow .vc-x{
+        display: flex;
+       justify-content: center !important;
+    }
+    .main-footer {
+        margin-bottom: 41px;
+    }
+    #footer-tow {
+        padding-bottom: 37px;
+    }
+    /* ================footer section end============== */
+}
